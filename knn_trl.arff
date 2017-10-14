@@ -1,0 +1,11 @@
+@relation knn_train_labels
+@attribute class {a,b}
+@data
+a
+a
+a
+b
+a
+a
+a
+a

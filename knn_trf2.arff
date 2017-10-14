@@ -1,0 +1,13 @@
+@relation knn_train_features
+@attribute f1 {a,b}
+@attribute f2 {a,b}
+@attribute f3 {a,b}
+@attribute f4 {a,b}
+@attribute f5 {a,b}
+@data
+a,b,a,a,a
+a,a,a,b,b
+b,b,a,b,a
+b,b,b,b,b
+b,a,a,b,b
+a,a,a,b,a

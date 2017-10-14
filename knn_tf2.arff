@@ -1,0 +1,8 @@
+@relation knn_test_features
+@attribute f1 {a,b}
+@attribute f2 {a,b}
+@attribute f3 {a,b}
+@attribute f4 {a,b}
+@attribute f5 {a,b}
+@data
+a,a,a,a,a

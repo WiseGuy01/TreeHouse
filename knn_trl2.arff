@@ -1,0 +1,11 @@
+@relation knn_train_labels
+@attribute l1 real
+@attribute l2 real
+@data
+2,3
+2.5,2.5
+37,14
+29,19
+-71,-11
+3,2
+

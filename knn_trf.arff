@@ -1,0 +1,12 @@
+@relation knn_train_features
+@attribute x real
+@attribute y real
+@data
+0.9,3
+2,2.01
+4,2
+2,2.5
+0,0
+3,0
+1,5
+0,2
